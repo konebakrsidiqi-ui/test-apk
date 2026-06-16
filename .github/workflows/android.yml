@@ -1,4 +1,4 @@
-name: Build APK
+name: Générer un APK
 
 on:
   workflow_dispatch:
